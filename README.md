@@ -39,6 +39,7 @@
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielldev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block" align='center'><br>
+<img align="center" alt="typescript" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
   <img align="center" alt="redux" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg">
 <img align="center" alt="React" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
