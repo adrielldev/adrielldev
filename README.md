@@ -35,8 +35,8 @@
 <hr>
 <div align="center">
   <a href="https://github.com/adrielldev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrielldev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielldev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrielldev&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielldev&layout=compact&langs_count=7&theme=nord"/>
 </div>
 <div style="display: inline_block" align='center'><br>
 <img align="center" alt="typescript" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg">
