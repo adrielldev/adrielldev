@@ -15,11 +15,12 @@
   <a href="https://www.youtube.com/channel/UCav8gt_NjZ3setL3n3BYX3Q">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  
-</div>
-<div align='center'> 
+  <div align='center'> 
   <img src="https://komarev.com/ghpvc/?username=adrielldev&style=flat-square&color=blue" alt=""/>
 </div>
+  
+</div>
+
 <br><br>
 
 
