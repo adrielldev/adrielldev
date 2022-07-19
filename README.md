@@ -53,6 +53,10 @@
   <img align="center" alt="Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
 </div>
 <br>
+<div align='center'>
+<img align="center" alt="Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg">
+
+</div>
 <br>
 <br>
 <div align='center'> 
