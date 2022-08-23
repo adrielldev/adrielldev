@@ -23,9 +23,6 @@
 
 <br><br>
 
-
-
-- 🌱 I’m currently learning NodeJS, Express and MongoDB
 - ⚡ Fun fact: I started to programming during my Bachelor in physics 4 years ago
 
 
