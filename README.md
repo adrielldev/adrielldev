@@ -25,10 +25,7 @@
 
 
 
-- 🔭 I’m currently working on Fullstack Projects
 - 🌱 I’m currently learning NodeJS, Express and MongoDB
-- 👯 I’m looking to collaborate on Fullstack Projects or Node Packages
-- 💬 Ask me about Frontend development or Backend
 - ⚡ Fun fact: I started to programming during my Bachelor in physics 4 years ago
 
 
