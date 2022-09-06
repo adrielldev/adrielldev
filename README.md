@@ -21,12 +21,6 @@
   
 </div>
 
-<br><br>
-
-- ⚡ Fun fact: I started to programming during my Bachelor in physics 4 years ago
-
-
-<br><br>
 <hr>
 <div align="center" display='flex'>
   <a href="https://github.com/adrielldev">
