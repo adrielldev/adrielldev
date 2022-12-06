@@ -11,7 +11,7 @@
 
  
 <p> 
-Desenvolvedor há mais de 3 anos e Bacharelando em Física. Comecei minha trajetória na programação desenvolvendo softwares e aplicações voltadas para resolução de problemas na área de Exatas. A primeira linguagem que tive contato foi o C e depois dela o Python. A partir de 2020 voltei meus estudos
+Desenvolvedor há mais de 3 anos e Bacharelando em Física. Comecei minha trajetória na programação desenvolvendo softwares e aplicações voltadas para resolução de problemas na área de Exatas. A primeira linguagem que tive contato foi C e depois dela Python. A partir de 2020 voltei meus estudos
 para o ramo de desenvolvimento Web, e desde então tem sido meu foco principal.
   </p>
 
