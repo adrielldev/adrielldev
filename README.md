@@ -81,10 +81,10 @@ para o ramo de desenvolvimento Web, e desde então tem sido meu foco principal.
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrielldev&repo=kenziehub-react-js)](https://github.com/adrielldev/kenziehub-react-js)
 
   <h3>
-<a href='https://github.com/adrielldev?tab=stars' target='_blank'>VER MAIS...</a>
+<a href='https://github.com/adrielldev?tab=stars' target='blank'>VER MAIS...</a>
    </h3>
    <h3>
-<a href='' target='_blank'>MEUS CERTIFICADOS </a>
+<a href='https://docs.google.com/document/d/15FItiagZmK5KLpwk0DkLkHrRM-S2pd0rhPM5XfTEfVA/edit?usp=sharing' target='blank'>MEUS CERTIFICADOS </a>
    </h3>
 
 
