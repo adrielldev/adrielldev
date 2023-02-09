@@ -1,8 +1,8 @@
 <h1> Oi, eu sou o Adriel :wave:</h1>
 
 <p align='center'>
-<img src="https://github-readme-stats.vercel.app/api?username=adrielldev&show_icons=true&theme=calm" height='240px'/>  
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielldev&card_width=498&theme=calm&hide_border=true"  height='240px'/>
+<img src="https://github-readme-stats.vercel.app/api?username=adrielldev&show_icons=true&theme=calm" height='220px'/>  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielldev&card_width=498&theme=calm&hide_border=true"  height='220px'/>
 </p>
 
 
