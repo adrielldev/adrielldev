@@ -1,11 +1,6 @@
 <h1> Oi, eu sou o Adriel :wave:</h1>
 <br>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=adrielldev&show_icons=true&theme=calm&hide_border=true" />  
-</p>
-
-
 <h2> Languages and tools 🛠️:
   <br>
   
