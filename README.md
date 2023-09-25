@@ -1,7 +1,7 @@
 <h1> Oi, eu sou o Adriel :wave:</h1>
 <br>
 
-<h2> Languages and tools 🛠️:
+<h2> Tecnologias que domino 🛠️:
   <br>
   
 <p align='center'>
@@ -33,16 +33,4 @@
   
   </p>
 
- <img src='https://www.codewars.com/users/adrieldev/badges/large'> </img>
-    <h3>
-<a href='https://docs.google.com/document/d/15FItiagZmK5KLpwk0DkLkHrRM-S2pd0rhPM5XfTEfVA/edit?usp=sharing' target='blank'>Certificados</a>
-   </h3>
-<a href='linkedin.com/in/adrieldev' target='_blank'>
-<img src='https://cdn-icons-png.flaticon.com/512/3536/3536505.png' width='55px'>
-</a>
-</img> 
-
-<a href='https://www.youtube.com/channel/UCav8gt_NjZ3setL3n3BYX3Q' target='_blank'>
-<img src='https://cdn-icons-png.flaticon.com/512/1384/1384060.png' width='55px'>
-</a>
 
