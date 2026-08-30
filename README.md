@@ -50,7 +50,6 @@ Desenvolvedor com **+3 anos de experiência**, já passei por consultoria, ERP e
 - Deep learning e redes neurais do zero
 - LLMs: fine-tuning, RAG, prompt engineering, inferência
 - Colocar modelos em produção (servir, escalar, monitorar)
-- Em breve: PyTorch e TensorFlow na prática
 
 ## Recent activities ⚡
 Os meus 3 repositórios mais atualizados:
