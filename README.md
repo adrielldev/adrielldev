@@ -1,6 +1,6 @@
-# <h1> Oi, eu sou o Adriel :wave:</h1>
+# <h1> Hi, I'm Adriel :wave:</h1>
 
-Desenvolvedor com **+3 anos de experiência**, já passei por consultoria, ERP e MMORPG, e atualmente trabalho como desenvolvedor no **mercado financeiro**. Sou formado em **Física** e **Ciência da Computação**, com pós-graduação em **Segurança da Informação** e em **Auditoria e Governança de TI**. Fora do código, adoro **xadrez, literatura e resolver problemas**. Hoje também mergulho fundo em **engenharia de IA** — deep learning, LLMs, PyTorch — para unir essa bagagem e construir nas duas frentes: produto de ponta a ponta e modelos em produção.
+Developer with **+3 years of experience**, I've been through consulting, ERP and Game Development, and I currently work as a developer in the **financial market**. I hold degrees in **Physics** and **Computer Science**, with postgraduate degrees in **Information Security** and **IT Audit & Governance**. Outside of code, I love **chess, literature and solving problems**. Lately I've been diving deep into **AI engineering** — deep learning, LLMs, PyTorch — to bring that background together and build on both fronts: end-to-end products and models in production.
 
 ## Tech Stack 🛠️
 
@@ -44,15 +44,15 @@ Desenvolvedor com **+3 anos de experiência**, já passei por consultoria, ERP e
   <img src = "https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 </p>
 
-## O que estou estudando 📚
-- **Engenharia de software** — arquitetura, código limpo, boas práticas e escalabilidade
-- **Cybersegurança** — começando a mergulhar nesse mundo, junto com engenharia de software
-- Deep learning e redes neurais do zero
-- LLMs: fine-tuning, RAG, prompt engineering, inferência
-- Colocar modelos em produção (servir, escalar, monitorar)
+## Currently studying 📚
+- **Software engineering** — architecture, clean code, best practices and scalability
+- **Cybersecurity** — just started diving into this world, alongside software engineering
+- Deep learning and neural networks from scratch
+- LLMs: fine-tuning, RAG, prompt engineering, inference
+- Getting models into production (serving, scaling, monitoring)
 
 ## Recent activities ⚡
-Os meus 3 repositórios mais atualizados:
+My 3 most recently updated repositories:
 
 <p align='center'>
   <a href="https://github.com/adrielldev/llm">
@@ -66,16 +66,16 @@ Os meus 3 repositórios mais atualizados:
   </a>
 </p>
 
-- **[llm](https://github.com/adrielldev/llm)** — LLM construído do zero, seguindo o livro *Building a Large Language Model* do Raschka. Python/PyTorch.
-- **[justaclock](https://github.com/adrielldev/justaclock)** — relógio de desktop simples pro Arch Linux com Tauri. TypeScript/React.
-- **[arch-config](https://github.com/adrielldev/arch-config)** — minhas configs do Arch. Lua.
+- **[llm](https://github.com/adrielldev/llm)** — LLM built from scratch, following the book *Building a Large Language Model* by Raschka. Python/PyTorch.
+- **[justaclock](https://github.com/adrielldev/justaclock)** — simple desktop clock for Arch Linux built with Tauri. TypeScript/React.
+- **[arch-config](https://github.com/adrielldev/arch-config)** — my Arch configs. Lua.
 
-## Meus stats 🚀
+## My stats 🚀
 
 <p align='center'>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrielldev&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrielldev&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&langs_count=8"/>
 </p>
 
-## Vamos conversar 💬
-Me chama se quiser falar sobre desenvolvimento, AI engineering, física — ou jogar uma partida de xadrez.
+## Let's talk 💬
+Hit me up if you want to talk about development, AI engineering, physics — or play a game of chess.
